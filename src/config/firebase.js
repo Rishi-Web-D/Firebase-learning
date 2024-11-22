@@ -7,13 +7,13 @@ import { getFirestore } from "firebase/firestore"
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBdTDOCA-IBOtrn4D3FEws2_1polwSXSUk",
-  authDomain: "fir-learning-3a951.firebaseapp.com",
-  projectId: "fir-learning-3a951",
-  storageBucket: "fir-learning-3a951.firebasestorage.app",
-  messagingSenderId: "799660623340",
-  appId: "1:799660623340:web:34875d9039144a24b92cc9",
-  measurementId: "G-J88GJPHN0R"
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxxxxxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  measurementId: "xxxxxxxxxxxxxxxxxxxx"
 };
 
 // Initialize Firebase
